@@ -1,0 +1,18 @@
+
+//This is the main database   needs URL, name, and password 
+Database
+URL : jdbc:mysql://127.0.0.1:3306/ailab
+Name: ailab
+PsWd: Coreference1
+
+//This is the UMLS database Location    needs URL, name, and password 
+UMLS
+URL : jdbc:mysql://127.0.0.1:3306/coref
+Name: coref
+PsWd: asdf
+
+//LingPipe coreference batch file
+Ling: c:\lingpipe-4.0.1\demos\generic\bin\coref.bat
+
+//Ip address or web address where BART server is running  Ex. 127.0.0.1 or www.bartaddress.com
+BART: 192.168.79.130

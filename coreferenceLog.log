@@ -1,0 +1,22 @@
+=====================================================
+Coreference evaluation library 
+Author: Andreea Bodnari < andreeab at mit dot edu > 
+=====================================================
+
+================== STARTING Evaluation ================== 
+Processing semantic category  : overall 
+===== STARTED  : MucEvaluation 
+MUC taking 0.008923 
+===== FINISHED 
+===== STARTED  : BcubedEvaluationChain 
+Starting parallelization with 2.000000 workers 
+BCUBED taking 3.206455 
+===== FINISHED 
+===== STARTED  : CEAFEvaluationChain 
+CEAF taking: 0.173360 
+===== FINISHED 
+===== STARTED  : BlancEvaluationChain 
+BLANC taking 0.048700 
+===== FINISHED 
+================== FINISHED Evaluation ================== 
+
